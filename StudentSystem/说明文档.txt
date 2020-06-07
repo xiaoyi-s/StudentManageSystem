@@ -1,0 +1,14 @@
+各文件的说明
+主目录(学生管理系统）
+	StudentSystem
+		readme.md---程序的说明文档
+		StudentSystem
+			database---数据库文件
+			lib---jar桥接文件
+			src
+				1.png---主界面图片
+				2.png---窗口界面图片
+				studentsystem
+					run---程序的运行程序
+	运行图片---程序运行的结果图片
+	学生成绩管理系统---这个是功能概览图
